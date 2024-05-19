@@ -1,0 +1,7 @@
+node_modules
+.env
+e2e/
+*.test.jsx
+test-arbitraries/
+reports/*.json
+.DS_Store
