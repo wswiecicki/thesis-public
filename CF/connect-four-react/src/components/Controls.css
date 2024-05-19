@@ -1,0 +1,7 @@
+button {
+  margin: 5px !important;
+}
+button svg {
+  font-size: medium !important;
+  padding-left: 0.3em;
+}
