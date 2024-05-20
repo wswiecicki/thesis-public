@@ -23,7 +23,7 @@ jobs:
 
             - name: Install Playwright Browsers
               working-directory: GSK/pw
-              run: npx playwright install --with-deps chromium
+              run: npx playwright install --with-deps
 
             - name: Run Playwright tests
               working-directory: GSK/pw
